@@ -6,3 +6,4 @@
 3. 브랜치 이동 : `git checkout (브랜치이름)`
 4. 브랜치 삭제 : `git branch -d (브랜치이름)`
 5. 브랜치 생성 + 이동 : `git checkout -b (브랜치이름)`
+6. 브랜치 합치기 : `git merge (브랜치이름)`
