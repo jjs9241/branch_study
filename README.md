@@ -1,7 +1,7 @@
 # Branch
 > 브랜치를 배워봅시다.
 
-![추가된 이미지](123456789)
+![브랜치 이미지](./branchimage.png)
 
 1. 브랜치 생성 : `git branch (브랜치이름)`
 2. 브랜치 확인 : `git branch`
